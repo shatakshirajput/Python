@@ -1,0 +1,4 @@
+demo file
+to store some words
+for python file i/o 
+operations
